@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "this is employee tracker node js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbelZemo/Employee-Tracker.git"
+  },
+  "author": "abel zemo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbelZemo/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/AbelZemo/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql": "^2.18.1"
+  }
+}
